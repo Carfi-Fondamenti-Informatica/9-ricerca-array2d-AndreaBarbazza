@@ -1,1 +1,7 @@
+#ifndef ESERCITAZIONE9_RICERCAARRAY2D_LIB_H
+#define ESERCITAZIONE9_RICERCAARRAY2D_LIB_H
+
+bool ricerca_nomi (char[10][20] , char [1][20] , int & );
+
+#endif //ESERCITAZIONE9_RICERCAARRAY2D_LIB_H
 
